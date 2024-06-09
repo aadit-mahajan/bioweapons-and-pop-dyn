@@ -1,4 +1,5 @@
-# session1-BC
+# session1-Biotech Club
+
 
 This is the repository for the files for the Population Dynamics session to be held on September 24       
 
